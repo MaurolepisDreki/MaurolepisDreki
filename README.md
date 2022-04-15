@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: right;">
+<div align="right">
   <a href="https://www.buymeacoffee.com/MaurolepisDreki" alt="Show your support @ https://www.buymeacoffee.com/MaurolepisDreki">
     <img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9TWF1cm9sZXBpcytEcmVraSZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD0yNkIwQTE=&creator=Maurolepis+Dreki&is_creating=raising%20the%20bar%20of%20software%20quality%20through%20Human%20Centered%20Design&design_code=1&design_color=%2326B0A1&slug=MaurolepisDreki" style="width: 15vw; height: auto;">
   </a>

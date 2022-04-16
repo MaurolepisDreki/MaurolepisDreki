@@ -5,6 +5,6 @@
 </div>
 
 # Who Are You?
-Everybody asks this question, from prospective employers to caterpillars, -- but not administrators because they either assume this knowledge or find you unworthy of notice, -- and of all the answers that can be given, the only answers we [people] accept are the ones we come up with ourselves, demonstrating the saying "a fructibus eorum cognoscetis eos" [people are known by their results] (Sec. Matt. VII:XVI).  So, rather than answering this question directly, I will tell reveal something of my designs and let you come to your own conclusions; doing anything else would result in a realization of [Carroll's Paradox](https://wmpeople.wm.edu/asset/index/cvance/Carroll) which demonstrates how it is impossible to forcably compell belief in others.
+Everybody asks this question, from prospective employers to caterpillars, -- but not administrators because they either assume this knowledge or find you unworthy of notice, -- and of all the answers that can be given, the only answers we [people] accept are the ones we come up with ourselves, demonstrating the saying "a fructibus eorum cognoscetis eos" [people are known by their results] (Sec. Matt. VII:XVI).  So, rather than answering this question directly, I will reveal something of my designs and let you come to your own conclusions; doing anything else would result in a realization of [Carroll's Paradox](https://wmpeople.wm.edu/asset/index/cvance/Carroll) which demonstrates how it is impossible to forcably compell belief in others.
 
 

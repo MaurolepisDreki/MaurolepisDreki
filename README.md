@@ -7,6 +7,72 @@
 # Who Are You?
 Everybody asks this question, from prospective employers to caterpillars, -- but not administrators because they either <abbr title="ass-u-me">assume</abbr> this knowledge or find you unworthy of notice, -- and of all the answers that can be given, the only answers we [people] accept are the ones we come up with ourselves, demonstrating the saying "a fructibus eorum cognoscetis eos" [people are known by their results] (Sec. Matt. VII:XVI).  So, rather than answering this question directly, I will reveal something of my designs and let you come to your own conclusions; doing anything else would result in a realization of [Carroll's Paradox](https://wmpeople.wm.edu/asset/index/cvance/Carroll) which demonstrates how it is impossible to forcably compell belief in others.
 
+## Coding Standard
+0. ***DO NOT** BE THE REASON FOR THE CREATION OF NEW RULES!!!*  
+   I absolutly hate following rules like these and have come to consider them as Machiavelli's cruelties: an occasionally nessisary evil to be skillfully
+   employed with extream rarity and swiftly executed with extream prejudice.  As a fellow computational artist, I would prefer to maintain a freedom of
+   expression, but that must come thrid to run-time efficiency and ledgeability, respectively.
+1. All blocks must be opened on the same line as the statement they are part of.  
+   ```C++
+   if( /* expr */ ) {
+      /* stmts */
+   }
+   ```
+2. Not all blockable statements require blocks.  
+   ```C++
+   if( /* expr */ )
+      /* stmt */
+   ```  
+   Neither do such statements require newlines except where the code is made more ledgable by that whitespace.  
+   ```C++
+   if( /* expr */ ) /* stmt */
+   ```  
+   The most common case of this is the joining of `else` and `if` which are two seperate blockable statements.  
+   ```C++
+   if( /* expr */ ) {
+      /* stmts */
+   } else if( /* expr */ ) {
+      /* stmts */
+   }
+   ```
+3. `else` statements must appear on the same line as the previous statement's closing brace.  
+   ```C++
+   if( /* expr */ ) {
+      /* stmts */
+   } else {
+      /* stmts */
+   }
+   ```
+   But only where applicable.  
+   ```C++
+   if( /* expr */ )
+      /* stmt */
+   else {
+      /* stmts */
+   }
+   ```
+   And unless there is a good reason (like appropriate interceeding documentation) not to.
+   ```C++
+   if( /* expr */ ) {
+      /* stmts */
+   }
+   
+   /* <some commentary here> */
+   else {
+      /* stmts */
+   }
+   ```
+4. The names of any function must be immedideately followed by the `(` token (no preceeding whitespace) and followed by either a space (not a tab), a newline, or the reciprical `)` token where applicable (declarations, definitions, and invocations).  Also the `)`token should be preceeded by a space or a newline whenever the `(` token is followed by one.
+   ```C++
+   void help();
+   
+   int main( int argc, char **argv ) {
+      /* stmts */
+   }
+   ```
+   NOTE: In the case of niladic functions (zero parameters), it is never appropriate to put whitespace between the `(` and `)` tokens.
+5. `while`, `for`, `if`, and `switch` are to be reguarded as built-in functions, meaning that the same rules apply for placing their expression statements.
+
 ## Code of Conduct
 > The estate all men are naturally in is a state of perfect freedom to order their actions and dispose of their possessions and personel as they think fit (within the bounds of the Laws of Nature) without asking leave or depending upon the will of any man.
 > 

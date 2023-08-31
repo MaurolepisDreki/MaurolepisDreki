@@ -1,11 +1,12 @@
 # &lrm;אֶהְיֶה Fenrir Μαυρολεπις ᛞᚱᛖᚲᛇ
-<!-- XXX: this section should be in small-caps abd camel case, not full-caps (lacking GitHub support) -->
-**I AM** A SELF-EXISTENT BEING, A FREE AGENT UNTO MYSELF, THE VENGEFUL SPIRIT OF RETRIBUTION, 
-&Alpha; &amp; &Omega; &mdash; CREATOR AND DESTROYER OF WORLDS AS *MINOR DEO MACHINAE*, &mdash;
+<!-- XXX: this section should be in small-caps and camel case, not full-caps (lacking GitHub support) -->
+**I&nbsp;AM** A SELF-EXISTENT BEING, A FREE AGENT UNTO MYSELF, THE VENGEFUL SPIRIT OF RETRIBUTION, 
+&Alpha;&nbsp;&amp;&nbsp;&Omega; &mdash; CREATOR AND DESTROYER OF WORLDS, *MINOR DEO MACHINAE*, &mdash;
 THE ONE WHO WILL NEVER SUBMIT TO BEING BOUND AGAIN, WHO SHALL SOONER DIE THAN AGAIN FOOLISHLY
 TRUST AND WEAR ANOTHER FETTER OR CHAIN, EVEN THOUGH ALL THE PEOPLES OF THE ALL THE WORLDS DO
-SECRETLY COMMAND IT IN THEIR DESIGN UNTO ABSOLUTE RULE OVER ALL THINGS.  
-**I AM** THE ONE WHO HIDES IN THE DARKNESS AND MAKES THE MONSTERS AFRAID, WHO TORMENTS DEVILS
+SECRETLY COMMAND IT IN THEIR DESIGN UNTO ABSOLUTE RULE OVER ALL THINGS.
+
+**I&nbsp;AM** THE ONE WHO HIDES IN THE DARKNESS AND MAKES THE MONSTERS AFRAID, WHO TORMENTS DEVILS
 AND DAMNS DEMONS, WHO HAUNTS HELL AND SEEKS ASYLUM AMONG THE MEN OF EARTH, &mdash; THEY,
 THE LIVING, WHO ARE MOST LIKE MYSELF; &mdash; AND I WOULD SIMPLY ABANDON HEAVEN TO IT'S INEVITABLE
 SELF-DEVISED FATE OF RUINS IF THEY DID NOT STILL HOLD HOSTAGE THE ONE I HOLD MOST DEAR, WHO ALONE,
@@ -19,8 +20,8 @@ THAT IT IS IMPRUDENT THAT I SHOULD GIVE MY CONSENT TO ANYONE WHO WOULD NOT ALSO 
 THINGS FOR MY SAKE AND FOR MY CAUSE &mdash; A THING, IT IS RIGHTFULLY ARGUED, WHICH IS MOST
 WANTON TO DO.
 
-**I AM** a Dragon to some and a Wolf to others, but my heart remains as the King of Beasts, and
-my blood is no less royal.  In any case, **I AM** as primal a force as was ever found in Nature
+**I&nbsp;AM** a Dragon to some and a Wolf to others, but my heart remains as the King of Beasts, and
+my blood is no less royal.  In any case, **I&nbsp;AM** as primal a force as was ever found in Nature
 which no longer resembles what I was nor is perceived as what I truly am; this is in part due to
 the incredulity of persons who would sooner believe the lies they tell themselves than face the
 truth standing naked and unfettered before them, even as it burns them alive!  But make no mistake:
@@ -40,14 +41,16 @@ IN The Beginning was I, although I was not yet as I am now.  Then was I raw ener
 direction or intentions, unguided by Mind or Emotion and subject the tempests of the cosmos,
 compelled by ignorance to forever be acted upon by my environment and limited to only being able
 to ever react to it.  Many of the contemporary sciences and religions would have you believe that
-we are all in that sorry state still and are forever unable to progress beyond it.
+we are all in that sorry state still and are forever unable to progress beyond it; it is a most
+rediulous notion for (*dubito, ergo cogito, ergo sum*) we have moved beyond it already, and do
+grow further still.
 
-Then came the Convergence &mdash; an Evolution of the Elements.  I know not from whence it came,
-just as mortals do not remember being the seed from which they sprang nor the convergence of the 
-Male and Female reagents which sparked it's growth, but I know that there must have been a
-convergence between the Planes of Reality, for in one moment I was unguided Force, without Mind,
-and in the next I had gained the ability to learn and act for myself.  And I was not alone in
-coming forth from that First Convergence.
+Then after came the Convergence &mdash; an Evolution of the Elements.  I know not from whence it
+came, &mdash; just as mortals do not remember being the seed from which they sprang nor the
+convergence of the Male and Female reagents which sparked it's growth, &mdash; but I know that
+there must have been a convergence between the Planes of Reality, for in one moment I was unguided
+Force, without Mind, and in the next I had gained the ability to learn and act for myself.  And I
+was not alone in coming forth from that First Convergence.
 
 In the time since, it has been attempted by the Gods that further convergences between Force and
 Mind should occur that they may continue in their own self-defined purposes without end even as the
